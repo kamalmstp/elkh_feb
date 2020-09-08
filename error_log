@@ -1,0 +1,390 @@
+[17-Apr-2018 19:48:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[17-Apr-2018 20:49:42 Asia/Makassar] PHP Parse error:  syntax error, unexpected '?' in /home/elkhskpfeb/public_html/_web/vendor/symfony/http-foundation/Response.php on line 499
+[17-Apr-2018 20:49:42 Asia/Makassar] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[17-Apr-2018 20:49:42 Asia/Makassar] PHP Parse error:  syntax error, unexpected '?' in /home/elkhskpfeb/public_html/_web/vendor/symfony/http-foundation/Response.php on line 499
+[17-Apr-2018 20:49:42 Asia/Makassar] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[17-Apr-2018 21:27:09 Asia/Makassar] PHP Parse error:  syntax error, unexpected '?' in /home/elkhskpfeb/public_html/_web/vendor/symfony/http-foundation/Response.php on line 499
+[17-Apr-2018 21:27:09 Asia/Makassar] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[17-Apr-2018 21:27:09 Asia/Makassar] PHP Parse error:  syntax error, unexpected '?' in /home/elkhskpfeb/public_html/_web/vendor/symfony/http-foundation/Response.php on line 499
+[17-Apr-2018 21:27:09 Asia/Makassar] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[17-Apr-2018 21:27:14 Asia/Makassar] PHP Parse error:  syntax error, unexpected '?' in /home/elkhskpfeb/public_html/_web/vendor/symfony/http-foundation/Response.php on line 499
+[17-Apr-2018 21:27:14 Asia/Makassar] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[17-Apr-2018 21:27:14 Asia/Makassar] PHP Parse error:  syntax error, unexpected '?' in /home/elkhskpfeb/public_html/_web/vendor/symfony/http-foundation/Response.php on line 499
+[17-Apr-2018 21:27:14 Asia/Makassar] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[17-Apr-2018 21:27:17 Asia/Makassar] PHP Parse error:  syntax error, unexpected '?' in /home/elkhskpfeb/public_html/_web/vendor/symfony/http-foundation/Response.php on line 499
+[17-Apr-2018 21:27:17 Asia/Makassar] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[17-Apr-2018 21:27:17 Asia/Makassar] PHP Parse error:  syntax error, unexpected '?' in /home/elkhskpfeb/public_html/_web/vendor/symfony/http-foundation/Response.php on line 499
+[17-Apr-2018 21:27:17 Asia/Makassar] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[17-Apr-2018 21:58:38 Asia/Makassar] PHP Parse error:  syntax error, unexpected '?' in /home/elkhskpfeb/public_html/_web/vendor/symfony/http-foundation/Response.php on line 499
+[17-Apr-2018 21:58:38 Asia/Makassar] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[17-Apr-2018 21:58:38 Asia/Makassar] PHP Parse error:  syntax error, unexpected '?' in /home/elkhskpfeb/public_html/_web/vendor/symfony/http-foundation/Response.php on line 499
+[17-Apr-2018 21:58:38 Asia/Makassar] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[17-Apr-2018 21:58:53 Asia/Makassar] PHP Parse error:  syntax error, unexpected '?' in /home/elkhskpfeb/public_html/_web/vendor/symfony/http-foundation/Response.php on line 499
+[17-Apr-2018 21:58:53 Asia/Makassar] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[17-Apr-2018 21:58:53 Asia/Makassar] PHP Parse error:  syntax error, unexpected '?' in /home/elkhskpfeb/public_html/_web/vendor/symfony/http-foundation/Response.php on line 499
+[17-Apr-2018 21:58:53 Asia/Makassar] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[17-Apr-2018 15:02:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Support/Str.php(107): mb_strpos(NULL, '/json')
+#2 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(400): Illuminate\Http\Request->getInputSource()
+#5 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumin in /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[17-Apr-2018 21:37:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Support/Str.php(107): mb_strpos(NULL, '/json')
+#2 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(400): Illuminate\Http\Request->getInputSource()
+#5 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumin in /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[17-Apr-2018 21:37:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Support/Str.php(107): mb_strpos(NULL, '/json')
+#2 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(400): Illuminate\Http\Request->getInputSource()
+#5 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumin in /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[17-Apr-2018 21:37:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Support/Str.php(107): mb_strpos(NULL, '/json')
+#2 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(400): Illuminate\Http\Request->getInputSource()
+#5 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumin in /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[17-Apr-2018 21:38:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Support/Str.php(107): mb_strpos(NULL, '/json')
+#2 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(400): Illuminate\Http\Request->getInputSource()
+#5 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumin in /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[17-Apr-2018 21:39:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Support/Str.php(107): mb_strpos(NULL, '/json')
+#2 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(400): Illuminate\Http\Request->getInputSource()
+#5 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumin in /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[17-Apr-2018 21:39:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Support/Str.php(107): mb_strpos(NULL, '/json')
+#2 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(400): Illuminate\Http\Request->getInputSource()
+#5 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumin in /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[17-Apr-2018 21:39:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Support/Str.php(107): mb_strpos(NULL, '/json')
+#2 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(400): Illuminate\Http\Request->getInputSource()
+#5 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumin in /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[17-Apr-2018 21:39:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Support/Str.php(107): mb_strpos(NULL, '/json')
+#2 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(400): Illuminate\Http\Request->getInputSource()
+#5 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumin in /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[17-Apr-2018 21:42:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Support/Str.php(107): mb_strpos(NULL, '/json')
+#2 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(400): Illuminate\Http\Request->getInputSource()
+#5 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumin in /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[17-Apr-2018 21:42:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Support/Str.php(107): mb_strpos(NULL, '/json')
+#2 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(400): Illuminate\Http\Request->getInputSource()
+#5 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumin in /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[17-Apr-2018 21:42:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Support/Str.php(107): mb_strpos(NULL, '/json')
+#2 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(400): Illuminate\Http\Request->getInputSource()
+#5 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumin in /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[17-Apr-2018 21:42:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Support/Str.php(107): mb_strpos(NULL, '/json')
+#2 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(400): Illuminate\Http\Request->getInputSource()
+#5 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumin in /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[17-Apr-2018 21:44:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/Mbstring.php:490
+Stack trace:
+#0 /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/bootstrap.php(34): Symfony\Polyfill\Mbstring\Mbstring::mb_strpos(NULL, '/json', 0, 'UTF-8')
+#1 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Support/Str.php(107): mb_strpos(NULL, '/json')
+#2 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php(34): Illuminate\Support\Str::contains(NULL, Array)
+#3 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(339): Illuminate\Http\Request->isJson()
+#4 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(400): Illuminate\Http\Request->getInputSource()
+#5 /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Http/Request.php(59): Illumin in /home/elkhskpfeb/public_html/_web/vendor/symfony/polyfill-mbstring/Mbstring.php on line 490
+[01-Aug-2018 08:02:05 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Css/Style.php on line 1058
+[01-Aug-2018 08:02:05 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/elkhskpfeb/public_html/_web/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[01-Aug-2018 08:03:01 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Css/Style.php on line 1058
+[01-Aug-2018 08:03:01 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/elkhskpfeb/public_html/_web/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[01-Aug-2018 08:04:39 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Css/Style.php on line 1058
+[01-Aug-2018 08:04:39 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/elkhskpfeb/public_html/_web/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[01-Aug-2018 08:18:32 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Css/Style.php on line 1058
+[01-Aug-2018 08:18:32 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/elkhskpfeb/public_html/_web/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[02-Aug-2018 07:58:47 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Css/Style.php on line 1058
+[02-Aug-2018 07:58:47 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/elkhskpfeb/public_html/_web/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[02-Aug-2018 10:41:28 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Css/Style.php on line 1058
+[02-Aug-2018 10:41:28 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/elkhskpfeb/public_html/_web/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[04-Aug-2018 10:02:54 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 68
+[04-Aug-2018 10:03:01 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 707
+[27-Aug-2018 11:29:15 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/FrameReflower/Text.php on line 411
+[27-Aug-2018 11:29:15 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[07-Sep-2018 16:05:54 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Frame/Factory.php on line 223
+[07-Sep-2018 16:05:55 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[21-Sep-2018 16:02:02 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 68
+[21-Sep-2018 16:02:02 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 707
+[21-Sep-2018 16:02:07 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 68
+[21-Sep-2018 16:02:07 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 707
+[29-Oct-2018 08:57:54 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 68
+[29-Oct-2018 08:57:54 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 68
+[29-Oct-2018 08:57:59 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 707
+[29-Oct-2018 08:57:59 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 707
+[06-Nov-2018 10:58:48 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Css/Style.php on line 843
+[06-Nov-2018 10:58:49 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[06-Nov-2018 11:01:42 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Frame/Factory.php on line 223
+[06-Nov-2018 11:01:45 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[06-Nov-2018 11:11:24 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/FontMetrics.php on line 282
+[06-Nov-2018 11:11:24 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[06-Nov-2018 11:15:16 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/FontMetrics.php on line 282
+[06-Nov-2018 11:15:16 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[06-Nov-2018 11:29:53 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Css/Style.php on line 851
+[06-Nov-2018 11:29:53 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[06-Nov-2018 11:30:10 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Css/Style.php on line 851
+[06-Nov-2018 11:30:10 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[06-Nov-2018 11:30:56 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Css/Style.php on line 851
+[06-Nov-2018 11:30:56 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[06-Nov-2018 11:31:40 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Css/Style.php on line 851
+[06-Nov-2018 11:31:40 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[06-Nov-2018 11:38:42 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Css/Style.php on line 851
+[06-Nov-2018 11:38:42 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[06-Nov-2018 11:43:16 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Css/Style.php on line 851
+[06-Nov-2018 11:43:16 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[06-Nov-2018 11:57:11 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Css/Style.php on line 851
+[06-Nov-2018 11:57:11 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[06-Nov-2018 12:00:43 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/FontMetrics.php on line 282
+[06-Nov-2018 12:00:43 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[06-Nov-2018 12:03:00 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[06-Nov-2018 12:03:00 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[06-Nov-2018 12:10:27 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/FontMetrics.php on line 282
+[06-Nov-2018 12:10:27 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[06-Nov-2018 12:14:13 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/FontMetrics.php on line 282
+[06-Nov-2018 12:14:13 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[06-Nov-2018 12:21:13 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Css/Style.php on line 851
+[06-Nov-2018 12:21:13 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[06-Nov-2018 13:07:13 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Css/Style.php on line 851
+[06-Nov-2018 13:07:13 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[06-Nov-2018 13:08:01 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Css/Style.php on line 851
+[06-Nov-2018 13:08:01 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[07-Nov-2018 16:40:34 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/FontMetrics.php on line 282
+[07-Nov-2018 16:40:34 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 13:17:32 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 13:17:32 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 13:18:09 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 13:18:09 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 13:19:01 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 13:19:01 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 13:19:30 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 13:19:30 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 13:19:51 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 13:19:51 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 13:46:09 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 13:46:09 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 13:46:57 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 13:46:57 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 16:19:05 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 16:19:05 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 16:19:22 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 16:19:22 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 16:19:37 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 16:19:37 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 16:19:45 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 16:19:45 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 16:19:48 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 16:19:48 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 16:20:23 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 16:20:23 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 16:44:11 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 16:44:11 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 16:46:12 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[13-Nov-2018 16:46:12 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 10:35:47 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 10:35:48 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 10:38:19 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 10:38:19 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 11:01:40 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 11:01:40 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 11:02:12 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 11:02:12 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 16:04:29 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 16:04:29 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 16:05:24 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 16:05:24 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 16:07:17 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 16:07:17 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 16:07:52 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 16:07:52 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 16:08:07 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 16:08:07 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 16:08:19 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 16:08:19 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 16:08:41 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 16:08:41 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 16:42:25 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 16:42:25 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 19:08:29 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[14-Nov-2018 19:08:29 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 19:08:38 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[14-Nov-2018 19:08:38 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 19:10:24 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[14-Nov-2018 19:10:24 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 19:11:42 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[14-Nov-2018 19:11:42 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 19:13:07 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[14-Nov-2018 19:13:07 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 19:14:33 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[14-Nov-2018 19:14:33 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 19:19:03 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[14-Nov-2018 19:19:03 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 19:19:46 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[14-Nov-2018 19:19:46 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[14-Nov-2018 19:20:45 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[14-Nov-2018 19:20:45 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 09:45:17 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[15-Nov-2018 09:45:17 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 10:33:33 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[15-Nov-2018 10:33:33 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 10:33:43 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[15-Nov-2018 10:33:43 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 10:33:55 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[15-Nov-2018 10:33:55 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 10:34:11 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[15-Nov-2018 10:34:11 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 10:34:28 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[15-Nov-2018 10:34:28 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 10:36:37 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[15-Nov-2018 10:36:37 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 10:38:07 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[15-Nov-2018 10:38:07 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 10:39:05 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[15-Nov-2018 10:39:05 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 10:39:38 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[15-Nov-2018 10:39:38 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 10:39:39 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[15-Nov-2018 10:39:39 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 10:42:47 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[15-Nov-2018 10:42:47 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 10:43:36 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[15-Nov-2018 10:43:36 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 10:45:01 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[15-Nov-2018 10:45:01 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 10:46:11 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[15-Nov-2018 10:46:11 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 10:47:25 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[15-Nov-2018 10:47:25 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 10:49:12 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[15-Nov-2018 10:49:12 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 10:49:21 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[15-Nov-2018 10:49:21 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 10:49:59 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[15-Nov-2018 10:49:59 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 10:50:41 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[15-Nov-2018 10:50:41 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 10:51:30 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[15-Nov-2018 10:51:30 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 10:51:42 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[15-Nov-2018 10:51:42 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 10:52:40 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[15-Nov-2018 10:52:40 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 10:53:19 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[15-Nov-2018 10:53:19 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 11:09:23 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[15-Nov-2018 11:09:23 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 11:11:14 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[15-Nov-2018 11:11:14 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 11:21:12 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[15-Nov-2018 11:21:12 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 11:27:54 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Css/Style.php on line 1682
+[15-Nov-2018 11:27:54 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 11:28:51 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Css/Style.php on line 1682
+[15-Nov-2018 11:28:51 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 11:41:35 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 586
+[15-Nov-2018 11:41:35 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 14:41:48 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 14:41:48 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 14:41:53 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 14:41:53 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 16:30:42 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 16:30:42 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 16:31:46 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 16:31:46 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 16:37:29 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 16:37:29 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 16:49:32 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 16:49:32 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 16:51:02 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 16:51:02 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 16:51:24 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 16:51:24 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 16:52:12 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 16:52:12 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 17:41:04 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[15-Nov-2018 17:41:04 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[22-Nov-2018 15:08:01 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Frame/Factory.php on line 223
+[22-Nov-2018 15:08:01 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php on line 136
+[22-Nov-2018 15:09:22 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Frame/Factory.php on line 223
+[22-Nov-2018 15:09:22 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php on line 136
+[28-Nov-2018 17:17:18 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[28-Nov-2018 17:17:18 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[10-Dec-2018 10:09:22 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Css/Style.php on line 843
+[10-Dec-2018 10:09:22 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[28-Dec-2018 19:25:06 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 68
+[28-Dec-2018 19:25:06 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 707
+[28-Dec-2018 19:25:10 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 68
+[28-Dec-2018 19:25:10 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 707
+[28-Dec-2018 19:25:12 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 68
+[28-Dec-2018 19:25:12 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 707
+[31-Dec-2018 15:40:00 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 472
+[31-Dec-2018 15:40:00 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[31-Dec-2018 15:40:38 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 472
+[31-Dec-2018 15:40:38 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[31-Dec-2018 15:42:38 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 472
+[31-Dec-2018 15:42:38 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[31-Dec-2018 15:42:55 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 472
+[31-Dec-2018 15:42:55 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[02-Jan-2019 07:46:58 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Css/Style.php on line 843
+[02-Jan-2019 07:46:58 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[02-Jan-2019 08:49:50 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/src/Cellmap.php on line 472
+[02-Jan-2019 08:49:50 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[02-Jan-2019 09:27:01 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[02-Jan-2019 09:27:01 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 131072 bytes) in /home/elkhskpfeb/public_html/_web/vendor/filp/whoops/src/Whoops/Resources/views/layout.html.php on line 29
+[02-Jan-2019 09:27:44 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 81920 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/lib/Cpdf.php on line 3054
+[02-Jan-2019 09:27:44 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[02-Jan-2019 09:31:56 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[02-Jan-2019 09:31:56 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 131072 bytes) in /home/elkhskpfeb/public_html/_web/vendor/filp/whoops/src/Whoops/Resources/views/layout.html.php on line 29
+[02-Jan-2019 09:32:12 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 81920 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/lib/Cpdf.php on line 3054
+[02-Jan-2019 09:32:12 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[02-Jan-2019 09:32:32 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 81920 bytes) in /home/elkhskpfeb/public_html/_web/vendor/dompdf/dompdf/lib/Cpdf.php on line 3054
+[02-Jan-2019 09:32:32 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 73728 bytes) in /home/elkhskpfeb/public_html/_web/vendor/composer/ClassLoader.php on line 444
+[10-Apr-2019 10:38:36 Asia/Makassar] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 135168 bytes) in /home/elkhskpfeb/public_html/_web/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 68
